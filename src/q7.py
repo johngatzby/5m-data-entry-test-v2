@@ -38,5 +38,5 @@ Snippet 2
 
     Answer:
     Line 1: Hello, world!
-    Line 2:
+    Line 2: Hello, Ada!
 """
